@@ -9,9 +9,11 @@
 ```
 2. 기능 branch (필요에 따라 생성하여 사용)
 ```
-- feature : 기능 단위로 개발하는 브런치. 기능 개발이 완료되면 develop 브런치에 합침. Ex) feature-login 브랜치 생성하여 개발 후 완료되면 develop에 합
+- feature : 기능 단위로 개발하는 브런치. 기능 개발이 완료되면 develop 브런치에 합침.   
+  Ex) feature-login 브랜치 생성하여 개발 후 완료되면 develop에 합
 - release : master 브런치로 보내기 전에 먼저 QA(품질검사)를 하기위한 공간.
-- hotfix : master 브런치로 배포를 했는데 버그가 생겼을 떄 긴급 수정하는 공간. develop 브런치를 거치지 않고 바로 master 브런치와 소통. 
+- hotfix : master 브런치로 배포를 했는데 버그가 생겼을 떄 긴급 수정하는 공간.   
+  develop 브런치를 거치지 않고 바로 master 브런치와 소통. 
 ```
 
 # 참고자료
